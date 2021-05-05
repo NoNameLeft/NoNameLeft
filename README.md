@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NoNameLeft (Stanislav Kostadinov)
 - 👀 I’m interested in programming (web development)
 - 🌱 I’m currently learning JavaScript (react, vue, angular)
-- 💞️ I’m looking to collaborate on any project :D
+- 💞️ Perhaps, my favorite language is CSharp.
 - 📫 How to reach me --> stanislavkostadinov97@gmail.com
 
 <!---
